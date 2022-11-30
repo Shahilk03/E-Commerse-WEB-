@@ -1,0 +1,116 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Nike Air Men’s Hoodie -  Imported Hoodie Red",
+      "price": "1800 off 15% ₹1530",
+      "url": "./images/product-1.png",
+      "category": "Dresses"
+    },
+    {
+      "id": 2,
+      "title": "Armani Frock Ladies -  Imported Frock Blue",
+      "price": "2100 off 21% 1659",
+      "url": "./images/product-2.png",
+      "category": "Dresses"
+    },
+    {
+      "id": 3,
+      "title": "Apple Watch SE -  White Aluminium Watch",
+      "price": "43990 off 31% ₹30353",
+      "url": "./images/product-3.png",
+      "category": "Jewellery"
+    },
+    {
+      "id": 4,
+      "title": "Fastrack Gradient UV  -  Yellow Sunglasses",
+      "price": "899 off 23% ₹692",
+      "url": "./images/product-4.png",
+      "category": "Jewellery"
+    },
+    {
+      "id": 5,
+      "title": "PUMA Regular  - Men Casual Shirt",
+      "price": "1499 off 13% ₹1304",
+      "url": "./images/product-5.png",
+      "category": "Dresses"
+    },
+    {
+      "id": 6,
+      "title": "JBL Quantum 100 Wired - Gaming Headphone",
+      "price": "2990 off 21% ₹2362",
+      "url": "./images/product-6.png",
+      "category": "Accessories"
+    },
+    {
+      "id": 7,
+      "title": "Pure Luxury  - Handbags for Women",
+      "price": "4200 off 17% ₹3486",
+      "url": "./images/product-7.png",
+      "category": "Footwear"
+    },
+    {
+      "id": 8,
+      "title": "Nike boy's Vapor 13 - Football Shoes",
+      "price": "2399 off 30% ₹1680",
+      "url": "./images/product-8.png",
+      "category": "Footwear"
+    },
+    {
+      "id": 9,
+      "title": "Nike Women Heels -  Red Black Heels",
+      "price": "2899 off 20% ₹2320",
+      "url": "./images/product-9.png",
+      "category": "Footwear"
+    },
+    {
+      "id": 10,
+      "title": "Dell A-15 - Gaming Mouse",
+      "price": "1300 off 10% ₹1105",
+      "url": "./images/product-10.png",
+      "category": "Accessories"
+    },
+    {
+      "id": 11,
+      "title": "Apple Airpods Pro - NagSafe Charging Case",
+      "price": "20999 off 15% ₹17850",
+      "url": "./images/product-11.png",
+      "category": "Accessories"
+    },
+    {
+      "id": 12,
+      "title": "Apple Watch SE 7 - Blue Aluminium Watch",
+      "price": "41099 off 25% ₹30825",
+      "url": "./images/product-12.png",
+      "category": "Accessories"
+    },
+    {
+      "id": 13,
+      "title": "APPLE MacBook Air M1 - (8 GB/512 GB SSD/Mac OS Big Sur) 13.3 inch",
+      "price": "120900 off 15% ₹102765",
+      "url": "./images/product-13.png",
+      "category": "Accessories"
+    },
+    {
+      "id": 14,
+      "title": "Apple Watch SE 7 - Red Aluminium Watc",
+      "price": "42099 off 25% ₹31574",
+      "url": "./images/product-14.png",
+      "category": "Accessories"
+    },
+    {
+      "id": 15,
+      "title": "PS-5 - Gamepad Remote",
+      "price": "1599 off 20% ₹1279",
+      "url": "./images/product-15.png",
+      "category": "Accessories"
+    },
+    {
+      "id": 16,
+      "title": "APPLE iPhone 14 - (Starlinght, 512 GB",
+      "price": "118000 off 5% ₹11210",
+      "url": "./images/product-16.png",
+      "category": "Accessories"
+    }
+  ]
+}
